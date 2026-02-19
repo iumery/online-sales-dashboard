@@ -1,0 +1,10 @@
+# Core
+streamlit>=1.30
+pandas>=2.0
+numpy>=1.23
+
+# Modeling / segmentation
+scikit-learn>=1.2
+
+# Forecasting
+prophet>=1.1
